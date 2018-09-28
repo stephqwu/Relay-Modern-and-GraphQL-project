@@ -1,0 +1,12 @@
+{
+  "name": "graphcool",
+  "version": "1.0.0",
+  "description": "My Graphcool Service",
+  "dependencies": {
+    "react-relay": "^1.6.2"
+  },
+  "devDependencies": {
+    "babel-plugin-relay": "^1.6.2",
+    "relay-compiler": "^1.6.2"
+  }
+}
